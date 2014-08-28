@@ -9,7 +9,7 @@
   <version>0.0.1</version>
 
   <properties>
-    <titan.version>0.4.1</titan.version>
+    <titan.version>0.5.0</titan.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 
@@ -33,7 +33,7 @@
     <dependency>
       <groupId>org.elasticsearch</groupId>
       <artifactId>elasticsearch</artifactId>
-      <version>0.90.5</version>
+      <version>1.0.0</version>
     </dependency>
   </dependencies>
 
